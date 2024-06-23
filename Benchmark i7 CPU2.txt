@@ -1,0 +1,147 @@
+Karpathy i7 notebook
+--------------------
+čas 0:01:02.76  14 z 5000 iterácií
+čas 0:02:03.80  27 z 5000 iterácií
+čas 0:03:04.54  39 z 5000 iterácií
+čas 0:04:09.48  51 z 5000 iterácií
+čas 0:05:12.86  61 z 5000 iterácií
+čas 0:06:18.82  67 z 5000 iterácií
+čas 0:07:24.56  72 z 5000 iterácií
+čas 0:08:29.00  83 z 5000 iterácií
+čas 0:09:33.37  95 z 5000 iterácií
+čas 0:10:36.54  106 z 5000 iterácií
+čas 0:11:40.87  117 z 5000 iterácií
+čas 0:12:41.38  126 z 5000 iterácií
+čas 0:13:46.20  135 z 5000 iterácií
+čas 0:14:52.39  143 z 5000 iterácií
+čas 0:15:55.02  151 z 5000 iterácií
+čas 0:16:59.43  159 z 5000 iterácií
+čas 0:18:06.81  167 z 5000 iterácií
+čas 0:19:10.54  175 z 5000 iterácií
+čas 0:20:14.31  183 z 5000 iterácií
+čas 0:21:17.69  191 z 5000 iterácií
+čas 0:22:20.99  199 z 5000 iterácií
+čas 0:23:23.95  207 z 5000 iterácií
+čas 0:24:30.21  215 z 5000 iterácií
+čas 0:25:33.12  223 z 5000 iterácií
+čas 0:26:38.16  231 z 5000 iterácií
+čas 0:27:45.00  239 z 5000 iterácií
+čas 0:28:50.70  247 z 5000 iterácií
+čas 0:29:56.69  255 z 5000 iterácií
+
+Karpathy i7 Desktop
+-------------------
+čas 0:01:05.32  12 z 5000 iterácií
+čas 0:02:07.78  24 z 5000 iterácií
+čas 0:03:09.37  36 z 5000 iterácií
+čas 0:04:11.34  48 z 5000 iterácií
+čas 0:05:13.81  60 z 5000 iterácií
+čas 0:06:14.57  72 z 5000 iterácií
+čas 0:07:15.61  84 z 5000 iterácií
+čas 0:08:19.60  96 z 5000 iterácií
+čas 0:09:24.04  107 z 5000 iterácií
+čas 0:10:26.22  118 z 5000 iterácií
+čas 0:11:28.97  130 z 5000 iterácií
+čas 0:12:30.65  142 z 5000 iterácií
+čas 0:13:32.15  154 z 5000 iterácií
+čas 0:14:33.33  166 z 5000 iterácií
+čas 0:15:33.41  178 z 5000 iterácií
+čas 0:16:33.52  190 z 5000 iterácií
+čas 0:17:33.70  202 z 5000 iterácií
+čas 0:18:38.38  215 z 5000 iterácií
+čas 0:19:43.24  228 z 5000 iterácií
+čas 0:20:44.10  240 z 5000 iterácií
+čas 0:21:44.29  252 z 5000 iterácií
+čas 0:22:49.28  265 z 5000 iterácií
+čas 0:23:54.04  278 z 5000 iterácií
+čas 0:24:58.49  291 z 5000 iterácií
+čas 0:26:03.29  304 z 5000 iterácií
+čas 0:27:08.05  317 z 5000 iterácií
+čas 0:28:08.17  329 z 5000 iterácií
+čas 0:29:13.09  342 z 5000 iterácií
+čas 0:30:14.28  354 z 5000 iterácií
+
+Po slovách notebook
+-------------------čas 0:01:00.01  1 z 1 iterácií 2173 krok z 90374 Chyba: 10.090
+čas 0:02:00.02  1 z 1 iterácií 4333 krok z 90374 Chyba: 9.006
+čas 0:03:00.02  1 z 1 iterácií 6474 krok z 90374 Chyba: 8.665
+čas 0:04:00.03  1 z 1 iterácií 8633 krok z 90374 Chyba: 8.843
+čas 0:05:00.04  1 z 1 iterácií 10785 krok z 90374 Chyba: 8.722
+čas 0:06:00.05  1 z 1 iterácií 12914 krok z 90374 Chyba: 8.783
+čas 0:07:00.06  1 z 1 iterácií 15053 krok z 90374 Chyba: 8.627
+čas 0:08:00.10  1 z 1 iterácií 17090 krok z 90374 Chyba: 8.570
+čas 0:09:00.11  1 z 1 iterácií 19214 krok z 90374 Chyba: 8.391
+čas 0:10:00.12  1 z 1 iterácií 21305 krok z 90374 Chyba: 8.541
+čas 0:11:00.14  1 z 1 iterácií 23337 krok z 90374 Chyba: 8.298
+čas 0:12:00.16  1 z 1 iterácií 25431 krok z 90374 Chyba: 8.660
+čas 0:13:00.18  1 z 1 iterácií 27549 krok z 90374 Chyba: 8.306
+čas 0:14:00.18  1 z 1 iterácií 29694 krok z 90374 Chyba: 8.603
+čas 0:15:00.25  1 z 1 iterácií 31837 krok z 90374 Chyba: 8.484
+čas 0:16:00.29  1 z 1 iterácií 33977 krok z 90374 Chyba: 8.545
+čas 0:17:00.31  1 z 1 iterácií 36116 krok z 90374 Chyba: 8.473
+čas 0:18:00.31  1 z 1 iterácií 38241 krok z 90374 Chyba: 8.523
+čas 0:19:00.31  1 z 1 iterácií 40382 krok z 90374 Chyba: 8.552
+čas 0:20:00.31  1 z 1 iterácií 42528 krok z 90374 Chyba: 8.295
+čas 0:21:00.33  1 z 1 iterácií 44614 krok z 90374 Chyba: 8.358
+čas 0:22:00.35  1 z 1 iterácií 46759 krok z 90374 Chyba: 8.110
+čas 0:23:00.36  1 z 1 iterácií 48897 krok z 90374 Chyba: 8.138
+čas 0:24:00.42  1 z 1 iterácií 51043 krok z 90374 Chyba: 8.561
+čas 0:25:00.46  1 z 1 iterácií 53177 krok z 90374 Chyba: 8.129
+čas 0:26:00.47  1 z 1 iterácií 55324 krok z 90374 Chyba: 7.919
+čas 0:27:00.48  1 z 1 iterácií 57472 krok z 90374 Chyba: 8.155
+čas 0:28:00.49  1 z 1 iterácií 59601 krok z 90374 Chyba: 8.498
+čas 0:29:00.55  1 z 1 iterácií 61708 krok z 90374 Chyba: 7.653
+čas 0:30:00.56  1 z 1 iterácií 63828 krok z 90374 Chyba: 8.440
+čas 0:31:00.63  1 z 1 iterácií 65752 krok z 90374 Chyba: 8.232
+čas 0:32:00.65  1 z 1 iterácií 67826 krok z 90374 Chyba: 8.113
+čas 0:33:00.66  1 z 1 iterácií 69977 krok z 90374 Chyba: 8.088
+čas 0:34:00.69  1 z 1 iterácií 71716 krok z 90374 Chyba: 7.955
+čas 0:35:00.70  1 z 1 iterácií 73741 krok z 90374 Chyba: 7.799
+čas 0:36:00.72  1 z 1 iterácií 75905 krok z 90374 Chyba: 8.511
+čas 0:37:00.74  1 z 1 iterácií 78020 krok z 90374 Chyba: 8.574
+čas 0:38:00.74  1 z 1 iterácií 79979 krok z 90374 Chyba: 8.193
+čas 0:39:00.75  1 z 1 iterácií 82042 krok z 90374 Chyba: 8.258
+čas 0:40:00.76  1 z 1 iterácií 84162 krok z 90374 Chyba: 8.223
+čas 0:41:00.77  1 z 1 iterácií 86219 krok z 90374 Chyba: 8.433
+čas 0:42:00.83  1 z 1 iterácií 88323 krok z 90374 Chyba: 8.254
+Trénovanie modelu trvalo 42.999676811695096 minút --- 0:42:59.98 
+
+po slovách desktop
+------------------
+
+
+------
+čas 0:01:00.13  1 z 1 iterácií 11906 krok z 90374 Chyba: 9.033
+čas 0:02:00.13  1 z 1 iterácií 23730 krok z 90374 Chyba: 8.533
+čas 0:03:00.13  1 z 1 iterácií 35524 krok z 90374 Chyba: 8.515
+čas 0:04:00.14  1 z 1 iterácií 47413 krok z 90374 Chyba: 8.369
+čas 0:05:00.14  1 z 1 iterácií 59335 krok z 90374 Chyba: 8.237
+čas 0:06:00.14  1 z 1 iterácií 71262 krok z 90374 Chyba: 8.083
+čas 0:07:00.15  1 z 1 iterácií 83181 krok z 90374 Chyba: 8.274
+Trénovanie modelu trvalo 7.606516683101654 minút --- 0:07:36.39 
+
+
+karpathy
+čas 0:01:00.23  228 z 5000 iterácií
+čas 0:02:00.35  456 z 5000 iterácií
+čas 0:03:00.43  684 z 5000 iterácií
+čas 0:04:00.50  912 z 5000 iterácií
+čas 0:05:00.53  1140 z 5000 iterácií
+čas 0:06:00.59  1368 z 5000 iterácií
+čas 0:07:00.63  1596 z 5000 iterácií
+čas 0:08:00.64  1824 z 5000 iterácií
+čas 0:09:00.69  2052 z 5000 iterácií
+čas 0:10:00.73  2280 z 5000 iterácií
+čas 0:11:00.78  2508 z 5000 iterácií
+čas 0:12:00.81  2736 z 5000 iterácií
+čas 0:13:00.85  2964 z 5000 iterácií
+čas 0:14:00.88  3192 z 5000 iterácií
+čas 0:15:00.92  3420 z 5000 iterácií
+čas 0:16:00.98  3648 z 5000 iterácií
+čas 0:17:01.05  3876 z 5000 iterácií
+čas 0:18:01.08  4104 z 5000 iterácií
+čas 0:19:01.10  4332 z 5000 iterácií
+čas 0:20:01.11  4560 z 5000 iterácií
+čas 0:21:01.19  4788 z 5000 iterácií
+čas 0:21:56.75  4999 z 5000 iterácií
+Trénovanie neurónovej siete trvalo -22 minút
